@@ -16,16 +16,16 @@ body {
 }
 
 h1 {
-    font-size: 36px;
-    color: #ff007f;
+    font-size: 30px;
+    color: #2609aa;
 }
 
 button {
-    background-color: #ff007f;
+    background-color:#2609aa;
     color: #fff;
     border: none;
     padding: 10px 20px;
-    font-size: 18px;
+    font-size: 12px;
     border-radius: 5px;
     cursor: pointer;
     margin-top: 10px;
